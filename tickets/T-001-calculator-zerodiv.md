@@ -2,7 +2,7 @@
 id: T-001
 title: calculator.py 除数为 0 时崩溃
 type: bug
-status: open
+status: analyzed
 created: 2026-11-02
 ---
 

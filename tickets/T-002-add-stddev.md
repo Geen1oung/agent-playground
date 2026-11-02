@@ -2,7 +2,7 @@
 id: T-002
 title: 希望 calculator.py 增加标准差计算
 type: feature
-status: open
+status: analyzed
 created: 2026-11-02
 ---
 
